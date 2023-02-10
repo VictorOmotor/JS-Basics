@@ -1,12 +1,12 @@
 # JS-Basics
 ## Answers to Questions 1-7
 1. Node runs JavaScript outside the browser.
-2. JavaScript can be used to
-a. Build interactive webpages
-b. Build web or mobile applications
-c. Build web servers and server applications
-d. Build real-time networking applications
-e. Build games.
+2. JavaScript can be used to:
+* Build interactive webpages
+* Build web or mobile applications
+* Build web servers and server applications
+* Build real-time networking applications
+* Build games.
 3. ECMA Script was first released in June 1997.
 4. Console.log()
 5. Tech fields that use JavaScript include:
